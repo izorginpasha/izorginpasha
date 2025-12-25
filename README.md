@@ -84,12 +84,7 @@ Backend Developer | FastAPI | Async | PostgreSQL | Kafka | Redis | Docker
 
 ---
 
-## 📈 GitHub статистика
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИК&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_НИК&layout=compact&theme=dark)
-
----
 
 ## 📫 Контакты
 
